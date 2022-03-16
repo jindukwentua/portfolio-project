@@ -39,9 +39,16 @@ const About = () => {
             </p>
 
             <p>
-              When I am not writing code I love to exercise by playing football
-              and running. I also love reading about startups solving
-              challenging problems using technology.
+              When I am not writing code, I love writing{" "}
+              <a
+                href="https://en.wikipedia.org/wiki/Leigh-on-Sea"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <strong>here</strong>
+              </a>
+              . I also exercise by playing football and running. I love reading
+              about startups solving challenging problems using technology.
             </p>
           </div>
           <div className="md:w-1/3">
