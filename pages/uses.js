@@ -22,11 +22,9 @@ const Uses = () => {
                       <li>VS Code</li>
                       <li>iTerm 2</li>
                       <li>Postman</li>
-                      <li>Table Plus</li>
-                      <li>Laravel Valet</li>
-                      <li>Docker</li>
-                      <li>Homebrew</li>
-                      <li>Magnet</li>
+                      <li>Insomnia</li>
+                      <li>Jupyter Notebook</li>
+                      <li>Tableau</li>
                       <li>Google Chrome</li>
                   </ul>
 
