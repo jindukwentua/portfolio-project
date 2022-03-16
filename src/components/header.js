@@ -40,7 +40,7 @@ const Header = () => {
                     <div className="flex-1 flex items-center justify-between">
                       <div className="flex-shrink-0 flex items-center">
                           <Link href="/">
-                            <a className="text-2xl font-bold italic hover:text-gray-700">Aaron Dunphy</a>
+                            <a className="text-2xl font-bold italic hover:text-gray-700">Jindu Kwentua</a>
                           </Link>
                       </div>
                       <div className="hidden sm:block sm:ml-6">

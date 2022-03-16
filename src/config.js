@@ -1,11 +1,11 @@
 export default {
-  title: `Aaron Dunphy | Software Developer`,
-  description: `Software Developer based in Leigh-on-Sea, Essex.`,
+  title: `Jindu Kwentua | Data Scientist`,
+  description: `Data Scientist based in Lagos, Nigeria.`,
   author: {
-    name: 'Aaron Dunphy',
-    summary: 'Software Developer',
+    name: 'Jindu Kwentua',
+    summary: 'Data Scientist',
   },
   social: {
-    twitter: 'aarondunphy',
+    twitter: 'jxndu',
   },
 }
