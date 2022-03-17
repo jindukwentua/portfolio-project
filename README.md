@@ -2,4 +2,4 @@
 
 Built with [Next.js](https://nextjs.org).
 
-[View website](https://.com)
+[View website](https://jindukwentua.netlify.app/)

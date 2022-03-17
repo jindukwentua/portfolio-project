@@ -12,7 +12,7 @@ const About = () => {
       <div className="container">
         <Heading level={1}>Hi, I'm Jindu Kwentua 👋</Heading>
         <Heading level={4}>
-          A data scientist || data analyst from Lagos, Nigeria
+          A Data Scientist || Data Analyst from Lagos, Nigeria
         </Heading>
 
         <div className="flex flex-col-reverse gap-8 items-center mb-10 md:flex-row">
