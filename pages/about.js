@@ -32,16 +32,15 @@ const About = () => {
 
             <p>
               I am have been a data scientist for 4+ years. The technologies I
-              work with are Python, SQL, R, Excel, Tableau and Javascript with a
-              focus on the frameworks Flask, SkLearn, Node and Express. I use
-              code and visualizations not only to do my day-to-day job, but also
+              work with are Python, SQL, R, Excel, Tableau and Javascript. I use
+              code, queries and visualizations not only to do my day-to-day job, but also
               to solve everyday problems I come across.
             </p>
 
             <p>
               When I am not writing code, I love writing{" "}
               <a
-                href="https://en.wikipedia.org/wiki/Leigh-on-Sea"
+                href="https://jindukwentua.medium.com/"
                 target="_blank"
                 rel="noreferrer"
               >
