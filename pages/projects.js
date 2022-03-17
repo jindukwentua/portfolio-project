@@ -26,14 +26,14 @@ const Projects = () => {
               <p className="text-sm">React - Gatsby - Tailwind CSS</p>
               <div class="flex justify-between items-center gap-4 mt-4">
                 <a
-                  href="https://aarondunphy.com/"
+                  href="https://jindukwentua.netlify.app/"
                   target="_blank"
                   className="text-indigo-700 hover:text-violet-500"
                 >
                   View App
                 </a>
                 <a
-                  href="https://github.com/aarondunphy/aarondunphy.com"
+                  href="https://github.com/jindukwentua/portfolio-project"
                   target="_blank"
                   className="text-indigo-700 hover:text-violet-500"
                 >
