@@ -172,7 +172,13 @@ const Projects = () => {
           <div className="flex-col flex gap-8 mb-12 md:mb-20 md:flex-row">
             <div className="w-full md:w-1/3">
               <Heading level={3} style={{ marginBottom: "0px" }}>
+              <a
+                href="https://brooi.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Brooi
+              </a>
               </Heading>
               <p className="text-xl mb-0">Technical Product Manager</p>
               <p className="text-sm">
@@ -206,7 +212,13 @@ const Projects = () => {
           <div className="flex-col flex gap-8 mb-12 md:mb-20 md:flex-row">
             <div className="w-full md:w-1/3">
               <Heading level={3} style={{ marginBottom: "0px" }}>
+              <a
+                href="http://www.garconwines.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Garcon Wines
+              </a>
               </Heading>
               <p className="text-xl mb-0">Data Analyst</p>
               <p className="text-sm">
@@ -237,7 +249,13 @@ const Projects = () => {
           <div className="flex-col flex gap-8 mb-12 md:mb-20 md:flex-row">
             <div className="w-full md:w-1/3">
               <Heading level={3} style={{ marginBottom: "0px" }}>
+              <a
+                href="https://www.josla.com.ng/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Josla
+              </a>
               </Heading>
               <p className="text-xl mb-0">Data Scientist</p>
               <p className="text-sm">SQL - Tableau - Python - Excel - Flask</p>
@@ -282,7 +300,13 @@ const Projects = () => {
           <div className="flex-col flex gap-8 mb-12 md:mb-20 md:flex-row">
             <div className="w-full md:w-1/3">
               <Heading level={3} style={{ marginBottom: "0px" }}>
-                Pantote
+              <a
+                href="https://pantotesolutions.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Pantote Solutions
+              </a>
               </Heading>
               <p className="text-xl mb-0">Data Analyst</p>
               <p className="text-sm">Tableau - Python - Excel</p>
@@ -308,11 +332,17 @@ const Projects = () => {
           <div className="flex-col flex gap-8 mb-12 md:mb-20 md:flex-row">
             <div className="w-full md:w-1/3">
               <Heading level={3} style={{ marginBottom: "0px" }}>
+              <a
+                href="https://labs.covenworks.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Coven Labs
+              </a>
               </Heading>
               <p className="text-xl mb-0">Data Analyst</p>
               <p className="text-sm">Tableau - Python - Excel</p>
-              <p className="text-xs mb-0">Sep 2019 - Dec 2019</p>
+              <p className="text-xs mb-0">Sep 2019 - Sep 2020</p>
             </div>
             <div className="w-full md:w-2/3">
               <p>
@@ -339,7 +369,13 @@ const Projects = () => {
           <div className="flex-col flex gap-8 mb-12 md:mb-20 md:flex-row">
             <div className="w-full md:w-1/3">
               <Heading level={3} style={{ marginBottom: "0px" }}>
+                <a
+                href="https://capitalexpressassurance.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Capital Express Securities
+              </a>
               </Heading>
               <p className="text-xl mb-0">Market Research Analyst</p>
               <p className="text-sm">Tableau - R - Excel</p>
