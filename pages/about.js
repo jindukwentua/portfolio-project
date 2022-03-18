@@ -31,7 +31,7 @@ const About = () => {
             </p>
 
             <p>
-              I have worked in data analytics and data science role for 4+ years. The technologies I
+              I have worked in data analytics and data science roles for 4+ years. The technologies I
               work with are Python, SQL, R, Excel, Tableau and Javascript. I use
               code, queries and visualizations not only to do my day-to-day job, but also
               to solve everyday problems I come across.
