@@ -31,12 +31,22 @@ const About = () => {
             </p>
 
             <p>
-              I have worked in data analytics and data science roles for 4+ years. The technologies I
-              work with are Python, SQL, R, Excel, Tableau and Javascript. I use
-              code, queries and visualizations not only to do my day-to-day job, but also
-              to solve everyday problems I come across.
+              I have worked in product analytics, data analytics and data science roles for 4+
+              years. The technologies I work with are Python, SQL, R, Excel,
+              Tableau and Javascript. I use code, queries and visualizations not
+              only to do my day-to-day job, but also to solve everyday problems
+              I come across.
             </p>
-
+            <p>
+              You can take a look at my{" "}
+              <a
+                href="/images/Kwentua Jindu - data analyst CV (1).pdf"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <strong><u>CV.</u></strong>
+              </a>
+            </p>
             <p>
               When I am not writing code, I love writing{" "}
               <a
@@ -44,7 +54,7 @@ const About = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <strong>here</strong>
+                <strong><u>here</u></strong>
               </a>
               . I also exercise by playing football and running. I love reading
               about startups solving challenging problems using technology.
