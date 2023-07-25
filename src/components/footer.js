@@ -14,7 +14,7 @@ const Footer = () => (
                     <a href="https://github.com/jindukwentua" target="_blank" rel="noreferrer" className="text-gray-800 text-xl hover:text-indigo-600">
                         <FontAwesomeIcon icon={faGithub} />
                     </a>
-                    <a href="https://www.linkedin.com/in/hilary-jindu-kwentua-52a426156/" target="_blank" rel="noreferrer" className="text-gray-800 text-xl hover:text-indigo-600">
+                    <a href="https://www.linkedin.com/in/jindukwentua/" target="_blank" rel="noreferrer" className="text-gray-800 text-xl hover:text-indigo-600">
                         <FontAwesomeIcon icon={faLinkedin} />
                     </a>
                     <a href="https://instagram.com/jxndu_" target="_blank" rel="noreferrer" className="text-gray-800 text-xl hover:text-indigo-600">
