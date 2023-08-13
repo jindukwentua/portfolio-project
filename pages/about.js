@@ -31,9 +31,9 @@ const About = () => {
             </p>
 
             <p>
-              I have worked in product analytics, data analytics and data science roles for 4+
-              years. The technologies I work with are Python, SQL, R, Excel,
-              Tableau and Javascript. I use code, queries and visualizations not
+              I have worked in data science, data analytics and product analytics roles for 4+
+              years. The technologies I work with are Python, SQL, R, Excel, and
+              Tableau. I use code, queries and visualizations not
               only to do my day-to-day job, but also to solve everyday problems
               I come across.
             </p>
@@ -57,7 +57,7 @@ const About = () => {
                 <strong><u>here</u></strong>
               </a>
               . I also exercise by playing football and running. I love reading
-              about startups solving challenging problems using technology.
+              about startups solving challenging problems using data and technology.
             </p>
           </div>
           <div className="md:w-1/3">
@@ -73,8 +73,7 @@ const About = () => {
 
         <Heading level={2}>Tech Skills</Heading>
         <ul className="list-disc columns-3 ml-6">
-          <li>Python</li>
-          <li>JavaScript</li>
+          <li>Python</li>s
           <li>R</li>
           <li>SQL</li>
           <li>Excel</li>

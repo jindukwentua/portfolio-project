@@ -1,6 +1,6 @@
 import React from "react"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faTwitter, faGithub, faLinkedin, faInstagram, faMedium } from '@fortawesome/free-brands-svg-icons'
+import { faTwitter, faGithub, faLinkedin, faMedium } from '@fortawesome/free-brands-svg-icons'
 
 
 const Footer = () => (
@@ -16,9 +16,6 @@ const Footer = () => (
                     </a>
                     <a href="https://www.linkedin.com/in/jindukwentua/" target="_blank" rel="noreferrer" className="text-gray-800 text-xl hover:text-indigo-600">
                         <FontAwesomeIcon icon={faLinkedin} />
-                    </a>
-                    <a href="https://instagram.com/jxndu_" target="_blank" rel="noreferrer" className="text-gray-800 text-xl hover:text-indigo-600">
-                        <FontAwesomeIcon icon={faInstagram} />
                     </a>
                     <a href="https://jindukwentua.medium.com/" target="_blank" rel="noreferrer" className="text-gray-800 text-xl hover:text-indigo-600">
                         <FontAwesomeIcon icon={faMedium} />
