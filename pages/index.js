@@ -24,7 +24,7 @@ const Index = ({ posts }) => {
       <div className="container">
         <div className="py-10 md:py-32 md:w-2/3">
           <h2 className="text-3xl md:text-5xl font-bold mb-2">
-            Hi, I'm Jindu Kwentua{" "}
+            Hi, I'm Jindu Kwentua, I'm a data scientist, data analyst, writer, and teacher.{" "}
             <span role="img" aria-label="wave">
               👋
             </span>
