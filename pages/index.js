@@ -24,11 +24,14 @@ const Index = ({ posts }) => {
       <div className="container">
         <div className="py-10 md:py-32 md:w-2/3">
           <h2 className="text-3xl md:text-5xl font-bold mb-2">
-            Hi, I'm Jindu Kwentua, I'm a data scientist, data analyst, writer, and teacher.{" "}
+            Hi, I'm Jindu Kwentua{" "}
             <span role="img" aria-label="wave">
               👋
             </span>
           </h2>
+          <Heading level={4}>
+          I'm a Data scientist, data analyst, writer, and teacher.
+          </Heading>
           <p>
             I have always been fascinated with data, what you can do with it,
             and learn from it. Taking those learnings and applying them in
