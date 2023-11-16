@@ -23,6 +23,8 @@ const Index = ({ posts }) => {
       <Seo title="Home | Data Scientist || Data Analyst in Lagos, Nigeria" />
       <div className="container">
         <div className="py-10 md:py-32 md:w-2/3">
+          <Heading level={4}>[welcome]
+          </Heading>
           <h2 className="text-3xl md:text-5xl font-bold mb-2">
             Hi, I'm Jindu{" "}
             <span role="img" aria-label="wave">
@@ -30,16 +32,16 @@ const Index = ({ posts }) => {
             </span>
           </h2>
           <Heading level={4}>
-          I'm a Data scientist, data analyst, writer, and teacher.
+          I'm a data scientist, data analyst, and writer.
           </Heading>
           <p>
-            I currently live in the Lagos, Nigeria, and work for Ecobank as a Data Scientist.
-            I specialise in FinTech, product and growth analytics. I write on my blog <a
+            I currently live in Lagos, Nigeria, and work for Ecobank as a Data Scientist.
+            I specialize in leveraging data for strategic decision-making, with a focus on FinTech, product, and growth analytics. Currently dedicated to enhancing decision processes through data insights. I write on my blog <a
                 href="https://medium.com/@jindukwentua"
                 target="_blank"
                 rel="noreferrer"
               >
-                here
+                here.
               </a>
           </p>
         </div>
