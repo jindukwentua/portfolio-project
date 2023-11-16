@@ -23,7 +23,10 @@ const Index = ({ posts }) => {
       <Seo title="Home | Data Scientist || Data Analyst in Lagos, Nigeria" />
       <div className="container">
         <div className="py-10 md:py-32 md:w-2/3">
-          <Heading><a className="text-2xl font-bold hover:text-red-700">[Welcome]</a>
+          <Heading level={3}>[Welcome]
+            <span role="img" aria-label="wave">
+              ☕️ 🏄🏼‍♂️
+            </span>
           </Heading>
           <h2 className="text-3xl md:text-5xl font-bold mb-2">
             Hi, I'm Jindu{" "}
